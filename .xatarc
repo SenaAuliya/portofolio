@@ -1,6 +1,0 @@
-{
-  "databaseURL": "https://Akhdan-Raffi-Putra-shofi-s-workspace-a3uqsc.us-west-2.xata.sh/db/portofolio",
-  "codegen": {
-    "output": "src/xata.ts"
-  }
-}
